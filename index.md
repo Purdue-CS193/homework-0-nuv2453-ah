@@ -10,7 +10,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+# Nuv Ahuja's First CS193 Homework
+- Learning how to build mobile apps
+- Using Swift to write efficient code
+- Working with UIKit for designing interfaces
+- Collaborating on group projects and getting feedback
+- debugging code and seeing it finally work
 # Header 1
 ## Header 2
 ### Header 3
@@ -20,6 +25,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
